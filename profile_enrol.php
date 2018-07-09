@@ -26,8 +26,8 @@
 				
 				
 				<label for="MT"><b></b></label><br><br>
-				Enrol<input type="radio" name="Enrolling" value="0" checked> <br>
-				Unenrol<input type="radio" name="Enrolling" value="1"> <br><br>
+				Enrol<input type="radio" name="EnrollingMT" value="0" checked> <br>
+				Unenrol<input type="radio" name="EnrollingMT" value="1"> <br><br>
 				
 				
 				
@@ -38,8 +38,8 @@
 				
 				
 				<label for="EET"><b></b></label><br><br>
-				Enrol<input type="radio" name="Enrolling" value="0" checked > <br>
-				Unenrol<input type="radio" name="Enrolling" value="1"> <br><br>
+				Enrol<input type="radio" name="EnrollingEET" value="0" checked > <br>
+				Unenrol<input type="radio" name="EnrollingEET" value="1"> <br><br>
 				
 				
 				<div class="clearfix">
@@ -48,8 +48,8 @@
 				
 				
 				<label for="CT"><b></b></label><br><br>
-				Enrol<input type="radio" name="Enrolling" value="0" checked> <br>
-				Unenrol<input type="radio" name="Enrolling" value="1"> <br><br>
+				Enrol<input type="radio" name="EnrollingCT" value="0" checked> <br>
+				Unenrol<input type="radio" name="EnrollingCT" value="1"> <br><br>
 				
 				
 				<div class="clearfix">
@@ -58,8 +58,8 @@
 				
 				
 				<label for="ICT"><b></b></label><br><br>
-				Enrol<input type="radio" name="Enrolling" value="0" checked> <br>
-				Unenrol<input type="radio" name="Enrolling" value="1"> <br><br>
+				Enrol<input type="radio" name="EnrollingICT" value="0" checked> <br>
+				Unenrol<input type="radio" name="EnrollingICT" value="1"> <br><br>
 				
 				
 				<div class="clearfix">
@@ -68,8 +68,8 @@
 				
 				
 				<label for="FT"><b></b></label><br><br>
-				Enrol<input type="radio" name="Enrolling" value="0" checked> <br>
-				Unenrol<input type="radio" name="Enrolling" value="1"> <br><br>
+				Enrol<input type="radio" name="EnrollingFT" value="0" checked> <br>
+				Unenrol<input type="radio" name="EnrollingFT" value="1"> <br><br>
 				
 				
 				<div class="clearfix">
@@ -78,8 +78,8 @@
 				
 				
 				<label for="AT"><b></b></label><br><br>
-				Enrol<input type="radio" name="Enrolling" value="0" checked> <br>
-				Unenrol<input type="radio" name="Enrolling" value="1"> <br><br>
+				Enrol<input type="radio" name="EnrollingAT" value="0" checked> <br>
+				Unenrol<input type="radio" name="EnrollingAT" value="1"> <br><br>
 				
 				</div>
     </form> <br>
