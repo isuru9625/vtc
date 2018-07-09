@@ -23,6 +23,8 @@
 				<button type="submit" class="signupbtn" name="MT"><Strong>Mechanical Technology </Strong></button><br>
 				</div>
 				
+				<label for="MT"></label>
+				
 				<br><br>
 				Enrol<input type="radio" name="Enrolling" value="0" checked> <br>
 				Unenrol<input type="radio" name="Enrolling" value="1"> <br><br>
@@ -32,6 +34,7 @@
 				<div class="clearfix">
 				<button type="submit" class="signupbtn" name="EET"><Strong>Electrical and Electronic Technology </Strong></button><br>
 				</div>
+				<label for="EET"></label>
 				
 				
 				<br><br>
@@ -43,6 +46,7 @@
 				<button type="submit" class="signupbtn" name="CT"><Strong>Construction Technology </Strong></button><br>
 				</div>
 				
+				<label for="CT"></label>
 				<br><br>
 				Enrol<input type="radio" name="Enrolling" value="0" checked> <br>
 				Unenrol<input type="radio" name="Enrolling" value="1"> <br><br>
@@ -52,6 +56,7 @@
 				<button type="submit" class="signupbtn" name="ICT"><Strong>Information and Communication Technology </Strong></button><br>
 				</div>
 				
+				<label for="ICT"></label>
 				<br><br>
 				Enrol<input type="radio" name="Enrolling" value="0" checked> <br>
 				Unenrol<input type="radio" name="Enrolling" value="1"> <br><br>
@@ -61,6 +66,7 @@
 				<button type="submit" class="signupbtn" name="FT" ><Strong>Food Technology </Strong></button><br>
 				</div>
 				
+				<label for="FT"></label>
 				<br><br>
 				Enrol<input type="radio" name="Enrolling" value="0" checked> <br>
 				Unenrol<input type="radio" name="Enrolling" value="1"> <br><br>
@@ -70,6 +76,7 @@
 				<button type="submit" class="signupbtn" name="AT" ><Strong>Automative Technolgy </Strong></button><br>
 				</div>
 				
+				<label for="AT"></label>
 				<br><br>
 				Enrol<input type="radio" name="Enrolling" value="0" checked> <br>
 				Unenrol<input type="radio" name="Enrolling" value="1"> <br><br>
