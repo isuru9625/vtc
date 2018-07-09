@@ -26,7 +26,7 @@
 				<label for="MT"></label>
 				
 				<br><br>
-				Enrol<input type="radio" name="Enrolling" value="0" checked> <br>
+				Enrol<input type="radio" name="Enrolling" value="0" > <br>
 				Unenrol<input type="radio" name="Enrolling" value="1"> <br><br>
 				
 				
@@ -38,7 +38,7 @@
 				
 				
 				<br><br>
-				Enrol<input type="radio" name="Enrolling" value="0" checked> <br>
+				Enrol<input type="radio" name="Enrolling" value="0" > <br>
 				Unenrol<input type="radio" name="Enrolling" value="1"> <br><br>
 				
 				
@@ -48,7 +48,7 @@
 				
 				<label for="CT"></label>
 				<br><br>
-				Enrol<input type="radio" name="Enrolling" value="0" checked> <br>
+				Enrol<input type="radio" name="Enrolling" value="0" > <br>
 				Unenrol<input type="radio" name="Enrolling" value="1"> <br><br>
 				
 				
@@ -58,7 +58,7 @@
 				
 				<label for="ICT"></label>
 				<br><br>
-				Enrol<input type="radio" name="Enrolling" value="0" checked> <br>
+				Enrol<input type="radio" name="Enrolling" value="0" > <br>
 				Unenrol<input type="radio" name="Enrolling" value="1"> <br><br>
 				
 				
@@ -68,7 +68,7 @@
 				
 				<label for="FT"></label>
 				<br><br>
-				Enrol<input type="radio" name="Enrolling" value="0" checked> <br>
+				Enrol<input type="radio" name="Enrolling" value="0" > <br>
 				Unenrol<input type="radio" name="Enrolling" value="1"> <br><br>
 				
 				
@@ -78,7 +78,7 @@
 				
 				<label for="AT"></label>
 				<br><br>
-				Enrol<input type="radio" name="Enrolling" value="0" checked> <br>
+				Enrol<input type="radio" name="Enrolling" value="0" > <br>
 				Unenrol<input type="radio" name="Enrolling" value="1"> <br><br>
 				
 				</div>
