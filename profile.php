@@ -37,7 +37,7 @@
             <figure><a href="leaveapplication.php"><img src="images/prof_img4.jpg" alt=""></a></figure>
             <span class="font1"><a href="leaveapplication.php">Apply for Leave</a></span> </article>
 	  <article class="cols">
-            <figure><a href="enrol.php"><img src="images/prof_img6.jpg" alt=""></a></figure>
+            <figure><a href="enrol.php"><img src="images/prof_img1.jpg" alt=""></a></figure>
             <span class="font1"><a href="enrol.php">Enrol for a Course</a></span> </article>
         </div>
       </div>
