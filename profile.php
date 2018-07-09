@@ -37,8 +37,8 @@
             <figure><a href="leaveapplication.php"><img src="images/prof_img4.jpg" alt=""></a></figure>
             <span class="font1"><a href="leaveapplication.php">Apply for Leave</a></span> </article>
 	  <article class="cols">
-            <figure><a href="enrol.php"><img src="images/prof_img1.jpg" alt=""></a></figure>
-            <span class="font1"><a href="enrol.php">Enrol for a Course</a></span> </article>
+            <figure><a href="profile_enrol.php"><img src="images/prof_img1.jpg" alt=""></a></figure>
+            <span class="font1"><a href="profile_enrol.php">Enrol for a Course</a></span> </article>
         </div>
       </div>
        <div class="pad_top2"> <a href="logout.php" class="button"><span><span>LOGOUT</span></span></a> </div>
