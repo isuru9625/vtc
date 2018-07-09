@@ -1,9 +1,8 @@
-<?php
    include('inc/sessionStudent.inc.php');
 ?>
 
-
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <title>My Courses</title>
 <?php include('inc/header.inc.php'); ?>
@@ -74,5 +73,8 @@
 </div>
 <script type="text/javascript">Cufon.now();</script>
 </body>
+</html>
 
 
+
+            
